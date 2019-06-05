@@ -49,7 +49,7 @@ namespace Topico_9.Entities
 
         public override string ToString()
         {
-
+            //Formatando o Texto
             StringBuilder summa = new StringBuilder();
             summa.AppendLine("SUMARIO:");
             summa.Append("Data da Compra: ");
