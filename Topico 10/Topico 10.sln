@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topico 10", "Topico 10\Topico 10.csproj", "{97AC8408-A48F-4206-A14C-0913B7234BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Execicio Fixação", "Execicio Fixação\Execicio Fixação.csproj", "{715808A1-F58E-4BBF-B9CF-91F8AB4669F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97AC8408-A48F-4206-A14C-0913B7234BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AC8408-A48F-4206-A14C-0913B7234BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AC8408-A48F-4206-A14C-0913B7234BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AC8408-A48F-4206-A14C-0913B7234BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715808A1-F58E-4BBF-B9CF-91F8AB4669F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715808A1-F58E-4BBF-B9CF-91F8AB4669F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715808A1-F58E-4BBF-B9CF-91F8AB4669F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715808A1-F58E-4BBF-B9CF-91F8AB4669F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C3BE83-CF4C-43CC-AF04-565431B12ACC}
+	EndGlobalSection
+EndGlobal
